@@ -15,7 +15,7 @@
 		"dotenv": "^16.0.3",
 		"express": "^4.21.2",
 		"mocha": "^10.1.0",
-    	"mongoose": "^8.3.0",
+    	"mongoose": "^8.8.3",
 		"validator": "^13.7.0"
 	},
 	"repository": {
